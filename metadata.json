@@ -1,0 +1,6 @@
+{
+  "name": "AKK",
+  "description": "A PS2-era low-poly 3D action-adventure game starring an ancient Tamil explorer journeying across sunlit Egyptian ruins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
